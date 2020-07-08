@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!---->
+    <dimen name="xhdpi_text_size">25sp</dimen>
+
+    <dimen name="ldpi_text_size">12sp</dimen>
+
+    <dimen name="mdpi_text_size">14sp</dimen>
+
+    <dimen name="hdpi_text_size">16sp</dimen>
+
+
+    //dashboard textsize
+
+    <dimen name="ldpi_text_size_dash">12sp</dimen>
+    <dimen name="mdpi_text_size_dash">20sp</dimen>
+    <dimen name="xhdpi_text_size_dash">25sp</dimen>
+    <dimen name="xhdpi_text_size_dash1">20sp</dimen>
+
+
+    <!--    Text Size for event     -->
+
+    <dimen name="ldpi_text_size_event">15sp</dimen>
+    <dimen name="mdpi_text_size_event">15sp</dimen>
+
+    <dimen name="xhdpi_text_size_event">18sp</dimen>
+
+
+    <!--
+    notification text size
+    -->
+
+    <dimen name="ldpi_text_notification">15sp</dimen>
+    <dimen name="xhdpi_text_notification">25sp</dimen>
+
+
+    <!--        Card Dimenssions -->
+    <dimen name="ldpi_card_width">120sp</dimen>
+    <dimen name="ldpi_card_height">150sp</dimen>
+
+    <dimen name="xhdpi_card_width">180sp</dimen>
+    <dimen name="xhdpi_card_height">200sp</dimen>
+
+</resources>

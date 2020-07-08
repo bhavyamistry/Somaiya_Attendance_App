@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D4D3DD"
+    tools:context=".Attendance">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/colorPrimary"
+            android:elevation="10dp"
+            android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            app:title="Attendance Report"
+            app:titleTextAppearance="@style/AppTheme.Toolbar.Title"
+            app:titleTextColor="@android:color/white"
+
+            />
+<!--
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center"
+            android:text="Attendance Report"
+            android:textColor="@android:color/black"
+            android:textSize="34sp" />-->
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_margin="12dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="6dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/txt_theory"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:fontFamily="sans-serif-black"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:text="Theory Attendance"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/ldpi_text_size"
+                    android:textStyle="bold" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp" />
+
+
+            </RelativeLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_margin="12dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="6dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/txt_practical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:fontFamily="sans-serif-black"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:text="Practical Attendance"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/ldpi_text_size"
+                    android:textStyle="bold" />
+
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerViewpractical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp" />
+
+            </RelativeLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="25dp"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="6dp">
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <GridLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:columnCount="3"
+                    android:layout_marginRight="5dp"
+                    android:orientation="horizontal"
+                    android:rowCount="2">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_row="0"
+                        android:layout_column="0"
+                        android:layout_rowWeight="3"
+                        android:layout_columnWeight="3"
+                        android:background="@drawable/border_right_bottom"
+                        android:fontFamily="sans-serif-black"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Theory Avg."
+                        android:textColor="@android:color/black"
+                        android:textSize="@dimen/ldpi_text_size" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_row="0"
+                        android:layout_column="1"
+                        android:layout_rowWeight="3"
+                        android:layout_columnWeight="3"
+                        android:background="@drawable/border_right_bottom"
+                        android:fontFamily="sans-serif-black"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Practical Avg."
+                        android:textColor="@android:color/black"
+                        android:textSize="@dimen/ldpi_text_size" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_row="0"
+                        android:layout_column="2"
+                        android:layout_rowWeight="3"
+                        android:layout_columnWeight="3"
+                        android:background="@drawable/border_bottom"
+                        android:fontFamily="sans-serif-black"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Total Avg."
+                        android:textColor="@android:color/black"
+                        android:textSize="@dimen/ldpi_text_size"/>
+
+                    <TextView
+                        android:id="@+id/th_avg"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_row="1"
+                        android:layout_column="0"
+                        android:layout_rowWeight="3"
+                        android:layout_columnWeight="3"
+                        android:background="@drawable/border_right_top"
+                        android:fontFamily="sans-serif-black"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="00%"
+                        android:textColor="@android:color/black"
+                        android:textSize="@dimen/ldpi_text_size" />
+
+                    <TextView
+                        android:id="@+id/pr_avg"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_row="1"
+                        android:layout_column="1"
+                        android:layout_rowWeight="3"
+                        android:layout_columnWeight="3"
+                        android:background="@drawable/border_right_top"
+                        android:fontFamily="sans-serif-black"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="00%"
+                        android:textColor="@android:color/black"
+                        android:textSize="@dimen/ldpi_text_size" />
+
+                    <TextView
+                        android:id="@+id/avg_attendance"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_row="1"
+                        android:layout_column="2"
+                        android:layout_rowWeight="3"
+                        android:layout_columnWeight="3"
+                        android:background="@drawable/border_top"
+                        android:fontFamily="sans-serif-black"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="00%"
+                        android:textColor="@android:color/black"
+                        android:textSize="@dimen/ldpi_text_size" />
+
+
+                </GridLayout>
+            </HorizontalScrollView>
+        </androidx.cardview.widget.CardView>
+
+        <ImageView
+            android:id="@+id/sucess_icon"
+            android:layout_width="100dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:src="@drawable/ic_quit" />
+
+    </LinearLayout>
+
+</ScrollView>

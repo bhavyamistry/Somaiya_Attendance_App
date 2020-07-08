@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:5:5-79
+11-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.CALL_PHONE" />
+12-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:6:5-69
+12-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:6:22-66
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:7:5-67
+13-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:7:22-64
+14
+15    <application
+15-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:9:5-51:19
+16        android:allowBackup="true"
+16-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\65288fada49b0b6c64631011b3fa4627\core-1.1.0\AndroidManifest.xml:24:18-86
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:11:9-43
+19        android:label="@string/app_name"
+19-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:12:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:13:9-54
+21        android:supportsRtl="true"
+21-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:14:9-35
+22        android:theme="@style/AppTheme"
+22-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:15:9-40
+23        android:usesCleartextTraffic="true" >
+23-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:16:9-44
+24        <activity
+24-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:17:9-19:15
+25            android:name="com.example.myapplication.EventActivity"
+25-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:17:19-48
+26            android:screenOrientation="fullSensor" /> <!-- <activity android:name=".EventActivity"></activity> -->
+26-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:18:13-51
+27        <activity
+27-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:20:9-22:15
+28            android:name="com.example.myapplication.NotificationActivity"
+28-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:20:19-55
+29            android:screenOrientation="fullSensor" /> <!-- <activity android:name=".MainActivity"></activity> -->
+29-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:21:13-51
+30        <activity
+30-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:23:9-25:15
+31            android:name="com.example.myapplication.DashBoardActivity"
+31-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:23:19-52
+32            android:screenOrientation="fullSensor" />
+32-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:24:13-51
+33        <activity
+33-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:26:9-28:15
+34            android:name="com.example.myapplication.MainActivity"
+34-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:26:19-47
+35            android:screenOrientation="fullSensor" />
+35-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:27:13-51
+36        <activity
+36-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:29:9-31:15
+37            android:name="com.example.myapplication.NoInternetActivity"
+37-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:29:19-53
+38            android:screenOrientation="fullSensor" />
+38-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:30:13-51
+39        <activity
+39-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:32:9-34:15
+40            android:name="com.example.myapplication.ResultActivity"
+40-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:32:19-49
+41            android:screenOrientation="fullSensor" />
+41-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:33:13-51
+42        <activity
+42-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:35:9-37:15
+43            android:name="com.example.myapplication.ContactUs"
+43-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:35:19-44
+44            android:screenOrientation="fullSensor" />
+44-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:36:13-51
+45        <activity
+45-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:38:9-40:15
+46            android:name="com.example.myapplication.Attendance"
+46-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:38:19-45
+47            android:screenOrientation="fullSensor" />
+47-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:39:13-51
+48        <activity
+48-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:41:9-50:20
+49            android:name="com.example.myapplication.SplashActivity"
+49-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:42:13-43
+50            android:label="@string/app_name"
+50-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:44:13-45
+51            android:screenOrientation="fullSensor" >
+51-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:43:13-51
+52            <intent-filter>
+52-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:45:13-49:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:46:17-69
+53-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:46:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:48:17-77
+55-->D:\AndroidInternship\Done-master\app\src\main\AndroidManifest.xml:48:27-74
+56            </intent-filter>
+57        </activity>
+58    </application>
+59
+60</manifest>

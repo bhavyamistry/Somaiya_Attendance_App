@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="college_red">#a02929</color>-->
+
+    <color name="colorPrimaryLight">#1e88e5</color>
+    <color name="colorwhite">#ffffff</color>
+
+    <color name="college_blue">#1360A6</color>
+    <color name="colorGrey">#9F9F9F</color>
+    <color name="login_bacground">#F5F9FB</color>
+    <color name="toastLogin">#00FA9A</color>
+    <color name="toastInvalid">#FF0000</color>
+
+    <color name="black">#000000</color>
+    <color name="a">#474747</color>
+    <color name="grey">#C3C3C3</color>
+
+
+
+<!--    dashboard colors-->
+
+
+    <color name="colorPrimary">#a02929</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="college_red">#a02929</color>
+    <color name="blue">#F1F7FE</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+
+
+    <color name="blue_grey_300">#90a4ae</color>
+
+
+</resources>

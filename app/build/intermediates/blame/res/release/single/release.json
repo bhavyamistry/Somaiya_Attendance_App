@@ -1,0 +1,826 @@
+[
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_logout.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_logout.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_border_top.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\border_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_grid_header.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\grid_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_notification.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-mdpi_notification_layout.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-mdpi\\notification_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\anim_frombottom.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\anim\\frombottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-xhdpi_activity_dashboard.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-xhdpi\\activity_dashboard.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_quit.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_quit.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_green_circle.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_green_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_like.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_like.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_header.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\layout_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_circleshape.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\circleshape.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-ldpi_activity_dashboard.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-ldpi\\activity_dashboard.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_exam.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_exam.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\anim_slidein_right.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\anim\\slidein_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-mdpi_preevent_data_viewer.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-mdpi\\preevent_data_viewer.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_call_white_24dp.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_call_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_quit.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_quit.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_exam.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_exam.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\raw_green_dot.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\raw\\green_dot.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-ldpi_single_unit.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-ldpi\\single_unit.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_cardview_child.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\cardview_child.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_event.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\activity_event.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-xhdpi_activity_result.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-xhdpi\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_dashboard.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-xhdpi_customdialog.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-xhdpi\\customdialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_quit.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_quit.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_login_logo2.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\login_logo2.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-mdpi_activity_dashboard.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-mdpi\\activity_dashboard.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-hdpi_customdialog.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-hdpi\\customdialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_logout.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_attendance.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_attendance.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_tick.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_tick.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_exam.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_exam.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_customdialog.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\customdialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_red_circle.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_red_circle.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_cardview.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\cardview.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-ldpi_grid_data.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-ldpi\\grid_data.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_attendance.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\activity_attendance.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_quit.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_quit.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\font_roboto.ttf.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\font\\roboto.ttf"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_telephone.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_telephone.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_exam.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_exam.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-mdpi_activity_main.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-mdpi\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_call_white_24dp.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_call_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_list_group.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_attendance.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_attendance.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_mail_white_24dp.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_mail_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_woman.jpg.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\woman.jpg"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_red_circle.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_red_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_green_circle.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_green_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_red_circle.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_red_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_attendance.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_attendance.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_call_white_24dp.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_call_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_list_header.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\list_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-mdpi_activity_splash.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-mdpi\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_exam.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_exam.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-ldpi_activity_result.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-ldpi\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_green_circle.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_green_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_like.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_like.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_attendance.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_attendance.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-xhdpi_activity_splash.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-xhdpi\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-mdpi_activity_attendance.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-mdpi\\activity_attendance.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_red_circle.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_red_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\raw_woman.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\raw\\woman.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_no_internet.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\activity_no_internet.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_logout.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_logout.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_tick.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_tick.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_user.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_like.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_like.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_login_logo1.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\login_logo1.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_attendance.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\attendance.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\raw_attendance.svg.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\raw\\attendance.svg"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_bad.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_bad.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-ldpi_activity_splash.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-ldpi\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_green_circle.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_green_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_quit.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_quit.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_single_unit.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\single_unit.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_logo_splash.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable-v24\\logo_splash.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification.PNG.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\notification.PNG"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_like.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_like.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_hod.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\hod.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-hdpi_grid_data.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-hdpi\\grid_data.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-mdpi_grid_data.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-mdpi\\grid_data.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_telephone.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_telephone.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_bad.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_bad.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\menu_option_menu.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-ldpi_notification_layout.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-ldpi\\notification_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-hdpi_notification_layout.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-hdpi\\notification_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_bad.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_bad.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_result.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\result.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-ldpi_activity_main.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-ldpi\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_event.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\event.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_call_white_24dp.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_call_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_demo.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\demo.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_contact.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\anim_slidein_left.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\anim\\slidein_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_class_teacher.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\class_teacher.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-mdpi_customdialog.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-mdpi\\customdialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-hdpi_single_unit.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-hdpi\\single_unit.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_mail_white_24dp.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_mail_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_border_bottom.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\border_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_telephone.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_telephone.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-xhdpi_activity_main.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-xhdpi\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-ldpi_preevent_data_viewer.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-ldpi\\preevent_data_viewer.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_proctor.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\proctor.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-ldpi_activity_attendance.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-ldpi\\activity_attendance.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_telephone.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_telephone.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-hdpi_activity_attendance.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-hdpi\\activity_attendance.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-xhdpi_grid_data.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-xhdpi\\grid_data.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\anim_animation.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\anim\\animation.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_tick.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_tick.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_quit.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_quit.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_like.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_like.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-mdpi_activity_result.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-mdpi\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_grid_data.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\grid_data.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_layout.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\notification_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-hdpi_activity_main.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-hdpi\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-xhdpi_activity_attendance.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-xhdpi\\activity_attendance.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-xhdpi_notification_layout.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-xhdpi\\notification_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_like.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_like.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-hdpi_activity_dashboard.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-hdpi\\activity_dashboard.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\raw_red_dot.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\raw\\red_dot.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\raw_young.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\raw\\young.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_green_circle.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_green_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_call_white_24dp.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_call_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-ldpi_customdialog.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-ldpi\\customdialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\raw_logo.jpg.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\raw\\logo.jpg"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_logout.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_logout.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\raw_antenna.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\raw\\antenna.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_bg1.jpg.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable-v24\\bg1.jpg"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_tick.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_tick.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_mail_white_24dp.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_mail_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-mdpi_single_unit.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-mdpi\\single_unit.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_call_white_24dp.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_call_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_bad.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_bad.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\anim_slideout_left.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\anim\\slideout_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-hdpi_preevent_data_viewer.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-hdpi\\preevent_data_viewer.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\anim_slide_down.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\raw_telephone.svg.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\raw\\telephone.svg"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_like.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_like.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_tick.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_tick.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_telephone.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_telephone.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_tick.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_tick.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_attendance.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_attendance.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-xhdpi_single_unit.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-xhdpi\\single_unit.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_bad.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_bad.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_rounded_primary.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\btn_rounded_primary.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_bad.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_bad.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_border_right_top.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\border_right_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_result.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_red_circle.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_red_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_contact_us.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_exam.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_exam.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_logout.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_logout.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_red_circle.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_red_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_bad.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_bad.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-hdpi_activity_splash.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-hdpi\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_green_circle.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_green_circle.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_logout.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_mail_white_24dp.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_mail_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_red_circle.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_red_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_attendance.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_attendance.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_border_right_bottom.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\border_right_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_drawborder.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\drawborder.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_mail_white_24dp.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_mail_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_border.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_woman1.jpg.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable\\woman1.jpg"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_telephone.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_telephone.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_green_circle.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_green_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\anim_slideout_right.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\anim\\slideout_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-hdpi_activity_result.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-hdpi\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_exam.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_exam.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\anim_slide_up.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_quit.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_quit.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_mail_white_24dp.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_mail_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\layout-xhdpi_preevent_data_viewer.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\layout-xhdpi\\preevent_data_viewer.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_mail_white_24dp.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_mail_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_logout.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_attendance.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_attendance.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_tick.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_tick.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_telephone.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_telephone.png"
+    },
+    {
+        "merged": "D:\\AndroidInternship\\Done-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_call_white_24dp.png.flat",
+        "source": "D:\\AndroidInternship\\Done-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_call_white_24dp.png"
+    }
+]
